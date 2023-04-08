@@ -1,0 +1,25 @@
+{
+  "name": "js_family_tree_react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx webpack serve"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.2",
+    "d3": "^7.8.4",
+    "esbuild-loader": "^3.0.1",
+    "html-webpack-plugin": "^5.5.0",
+    "js_family_tree": "github:asabhaney/js_family_tree#fc455a044f88e2dbb2d88f5714d18a8210162742",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.2"
+  }
+}
