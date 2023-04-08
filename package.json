@@ -15,7 +15,7 @@
     "d3": "^7.8.4",
     "esbuild-loader": "^3.0.1",
     "html-webpack-plugin": "^5.5.0",
-    "js_family_tree": "github:asabhaney/js_family_tree#fc455a044f88e2dbb2d88f5714d18a8210162742",
+    "js_family_tree": "github:asabhaney/js_family_tree#ad191fb34f611c4c3b0b1449667ab5b7479c9dfc",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "webpack": "^5.78.0",
